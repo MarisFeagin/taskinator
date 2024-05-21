@@ -9,7 +9,7 @@ Inital Setup
 * Use style sheet
 * Add function to buttons to add tasks to the list
 
-Captuer Form Data
+Capture Form Data
 
 * Create a form to add tasks
 * Add Error handling
