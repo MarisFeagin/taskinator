@@ -1,0 +1,12 @@
+.select-dropdown, .select-status {
+    appearance: none;
+}
+
+.main {
+    display: flex;
+    flex: 1;
+}
+
+.section {
+    flex-basis: 100%;
+}
